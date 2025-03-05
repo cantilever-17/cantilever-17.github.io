@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Math, Physics, CS Hub"
 email: "jinseok95@naver.com"
-description: >- # this means to ignore newlines until "baseurl:"
-"수학, 물리, 컴퓨터 공학 노트와 프로젝트"
+description: "수학, 물리, 컴퓨터 공학 노트와 프로젝트"
 baseurl: ""
 twitter_username: username
 github_username: username
